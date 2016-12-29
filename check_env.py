@@ -48,7 +48,7 @@ pkgs = {'IPython': '5.1',
         'imexam': '0.6.2',
         'astroquery': '0.3',
         'ginga': '2.6.1',
-        'stginga':'0.1.2',
+        'stginga':'0.1.3',
         'gwcs': '0.7',
         'specviz':'0.2'
         }
