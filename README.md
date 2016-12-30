@@ -8,7 +8,7 @@ Check out the [Schedule](Schedule.md)!
 View the [installation and setup instructions](Installation_and_Setup.md)!
 
 
-This workshop will cover the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST and other major mission data.
+This workshop will cover the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical, and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST, and other major mission data.
 
 Our goals will be to introduce you to the variety of tools which are already available inside the Astropy library as well as provide ample hands-on time during which you’ll be able to explore the science analysis capabilities which the greater Python environment and community provide.
 

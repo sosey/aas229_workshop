@@ -1,4 +1,6 @@
-This will be an interactive workshop so be sure to come with a laptop prepared to try out some of the tools that will be discussed and demoed.
+This will be an interactive workshop so be sure to come with a laptop prepared to try out some of the tools that will be discussed and demonstrated.
+
+If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
 
 # 1. Clone This Repository
 
@@ -69,11 +71,9 @@ You can run the check_env.py script to perform a basic check of your Python envi
 
     % python check_env.py
 
-If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
-
 # 4. Pick Up Changes
 
-To pick up any updates for workshop materials, make sure you are in the aas229_workahop directory and then use the following commands:
+To pick up any updates for workshop materials, make sure you are in the aas229_workshop directory and then use the following commands:
 
     % git fetch origin master
     % git rebase origin/master
