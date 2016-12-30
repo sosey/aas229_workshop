@@ -4,7 +4,7 @@ This will be an interactive workshop so be sure to come with a laptop prepared t
 
 First, download this repository by either doing:
 
-    git clone http://github.com/spacetelescope/aas229_workshop.git
+    % git clone http://github.com/spacetelescope/aas229_workshop.git
 
 or by downloading and then expanding the repository file.
 
@@ -70,3 +70,14 @@ You can run the check_env.py script to perform a basic check of your Python envi
     % python check_env.py
 
 If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
+
+# 4. Pick Up Changes
+
+To pick up any updates for workshop materials, make sure you are in the aas229_workahop directory and then use the following commands:
+
+    % git fetch origin master
+    % git rebase origin/master
+    
+The commands above only work if you used git in Step 1. The rebase command will not work properly if you have modified the materials (e.g., running the notebooks). In that case or if you downloaded the materials manually, you will have to update the changed files manually as well; e.g., by downloading the updated file (the RAW format) via GitHub web interface.
+
+Software covered in this workshop should not need any more updates after Steps 2 and 3. However, in the event of any necessary quick fix, instructions will be given out during the workshop (e.g., using conda or pip commands).
