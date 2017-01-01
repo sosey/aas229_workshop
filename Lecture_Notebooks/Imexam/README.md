@@ -1,4 +1,4 @@
-### Photutils
+### Imexam
 
 **Instructor**:  Megan Sosey
 
